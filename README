@@ -6,6 +6,8 @@ v1.2:     +added a boost to the vore lunge.
           *changed the collision mask of the shark girl.
           
 -----------------------------------------------------------------------------------------------------
-TO-DO:    *Mouth hold.
-          *swallow/release from hold
-          
+v1.3:     +added Mouth hold.
+          +added swallow from hold.
+          +added animation : run while holding.
+-----------------------------------------------------------------------------------------------------
+TO-DO:    *release from hold just kills, need to change that
