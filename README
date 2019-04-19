@@ -1,0 +1,11 @@
+CHANGELOG:
+-----------------------------------------------------------------------------------------------------
+
+v1.2:     +added a boost to the vore lunge.
+          +added a push function to the vore lunge (now enemies follows your mouth).
+          *changed the collision mask of the shark girl.
+          
+-----------------------------------------------------------------------------------------------------
+TO-DO:    *Mouth hold.
+          *swallow/release from hold
+          
